@@ -1,0 +1,27 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+*Perché Noir Soleil??*
+Il progetto Noir Soleil nasce dalla necessità di avere un unico programma che permettesse di trovare e calcolare con precisione le macchie solari presenti su un immagine del sole. Inoltre abbiamo implementato anche il calcolo delle effemeridi del sole e il gestore dei dati cosi ottenuti.
+
+*Informazioni su Noir Soleil*
+Noir Soleil è programmato interamente in Delphi, per adesso è stato compilato solo per windows (ma si conta di portarlo anche su Linux) con Wine gira anche sotto Linux.
+Le funzioni per il calcolo delle Effemeridi derivano da quelle scritte in C per il programma SunSpot scritto da Albino Carbognani.
+
+*Crediti*
+Compilatore: BDS 4.0
+Programmatore: Martino G. Ferrari
+Ringrazio 
+ Alessandro Soldati (aiuto conversione da C a Delphi delle funzioni e funzione calcolo Data)
+ Albino Carbognani (SunSpot)
+
+*Log versioni Noir Soleil*
+
+
+
+
