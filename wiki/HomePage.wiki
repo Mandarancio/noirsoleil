@@ -17,5 +17,9 @@ Ringrazio
  Albino Carbognani (SunSpot)
 
 *Log versioni Noir Soleil*
+* Noir Soleil Ver. 0.02A (13-03-2007): 
+-Inserito il calcolo delle effemeridi
+-Individuazione delle macchie
 
-
+* Noir Soleil Ver. 0.01A (04-03-2007):
+Manca ancora tutto è presente solo l'interfaccia
