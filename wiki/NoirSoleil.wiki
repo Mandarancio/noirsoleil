@@ -1,0 +1,21 @@
+#labels Featured,Phase-QA
+Progetto di Norir Soleil
+
+= Cosa vorremmo raggiungere? =
+
+L'idea che abbiamo di Noir Soleil è molto difficile da realizzare ma noi ci stiamo provand  Queste sono le funzioni che noi speriamo che il nostro software avrà:
+  * Calcolo Effemeridi
+  * Ricerca macchie (coordinate e area)
+  * Conversione da coordinate cartesiane a eliografiche
+  * Gestione macchie 
+  * Griglia di riferimento
+  * Software per la rielaborazione dei dati raccolti
+
+= Cosa abbiamo già fatto =
+
+Di queste numerose funzioni abbiamo già o in parte sviluppato:
+  * Calcolo Effemeridi
+  * Ricerca macchie (da fare la conversione dell'area)
+  * Gestione macchi (solo iniziata)
+  * Griglia di riferimento (manca l'asse dell'inclinazione del sole)
+
