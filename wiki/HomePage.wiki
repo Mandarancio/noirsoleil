@@ -18,6 +18,9 @@ Introduzione a Noir Soleil
   * Albino Carbognani (SunSpot)
 
 *Log versioni Noir Soleil*
+  * _Noir Soleil Ver. 0.04A  (13-03-2007) OffLine
+    * Algoritmo Effemeriti (OK!)
+    * Reticolo (da finire) 
 
   * _Noir Soleil Ver. 0.02A (13-03-2007):_
      * Inserito il calcolo delle effemeridi
