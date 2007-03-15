@@ -2,7 +2,7 @@
 Introduzione a Noir Soleil
 
 *Perché Noir Soleil?*
- Il progetto Noir Soleil nasce dalla necessità di avere un unico programma che permettesse di trovare e calcolare con precisione le macchie solari presenti su un immagine del sole.  Inoltre abbiamo implementato anche il calcolo delle effemeridi del sole e il gestore dei dati cosi ottenuti.
+ Il progetto Noir Soleil nasce dalla necessità di avere un unico programma che permettesse di trovare e calcolare con precisione le macchie solari presenti su un immagine del sole.  Inoltre abbiamo implementato anche il calcolo delle Effemeridi del sole e il gestore dei dati cosi ottenuti.
 
 
 *Informazioni su Noir Soleil*
@@ -19,11 +19,11 @@ Introduzione a Noir Soleil
 
 *Log versioni Noir Soleil*
   * _Noir Soleil Ver. 0.04A  (13-03-2007)_ *Off-Line*
-    * Algoritmo Effemeriti (OK!)
+    * Algoritmo Effemeridi (OK!)
     * Reticolo (da finire) 
 
   * _Noir Soleil Ver. 0.02A (13-03-2007):_
-     * Inserito il calcolo delle effemeridi
+     * Inserito il calcolo delle Effemeridi
      * Individuazione delle macchie
 
   * _Noir Soleil Ver. 0.01A (04-03-2007):_
