@@ -1,3 +1,4 @@
+#labels Featured
 Mini Guida all'utilizzo di noir soleil
 
 = Movimento del reticolo = 
