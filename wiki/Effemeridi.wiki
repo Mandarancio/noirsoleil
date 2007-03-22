@@ -1,3 +1,4 @@
+#labels Featured
 Le effemeridi (dalla parola greca ephemeros = giornaliero) sono tabelle che contengono dati precisi riguardo alla posizione, nel corso di un particolare intervallo di tempo, di corpi celesti naturali quali il sole, la luna, i pianeti, le comete, ma anche di satelliti artificiali.
 
 Lo scopo è in genere quello di conoscere in anticipo le posizioni degli astri, ad esempio per pianificare osservazioni astronomiche o a fini astrologici.
