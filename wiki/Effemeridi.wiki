@@ -1,9 +1,7 @@
 #labels Featured
 Le effemeridi (dalla parola greca ephemeros = giornaliero) sono tabelle che contengono dati precisi riguardo alla posizione, nel corso di un particolare intervallo di tempo, di corpi celesti naturali quali il sole, la luna, i pianeti, le comete, ma anche di satelliti artificiali.
 
-Lo scopo è in genere quello di conoscere in anticipo le posizioni degli astri, ad esempio per pianificare osservazioni astronomiche o a fini astrologici.
-
-Grazie alle effemeridi, in astrologia si può anche calcolare il tema natale di una persona, utile alla compilazione della sua carta del cielo, o tema astrologico.
+Lo scopo è in genere quello di conoscere in anticipo le posizioni degli astri, ad esempio per pianificare osservazioni astronomiche.
 
 Su altre effemeridi, utilizzate per il calcolo e la costruzione delle meridiane, sono riportati per ogni giorno del calendario gregoriano:
 
