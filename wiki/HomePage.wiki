@@ -18,6 +18,16 @@ Introduzione a Noir Soleil
   * Albino Carbognani (SunSpot)
 
 *Log versioni Noir Soleil*
+  * _Noir Soleil Ver. 1.00A  (14-05-2007)_ 
+    * Ricerca e salvataggio (ALL OK!)
+    * Gestione e rielaboratore (0.5 OK!)
+    * Risolti molti bug
+
+  * _Noir Soleil Ver. 0.8 A  (21-04-2007)_
+    *Dati (OK!)
+    *Risolti molti bug minori
+    *Strutturazione a librerie!
+
   * _Noir Soleil Ver. 0.04A  (13-03-2007)_ *Off-Line*
     * Algoritmo Effemeridi (OK!)
     * Reticolo (da finire) 
