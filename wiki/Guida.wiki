@@ -10,9 +10,6 @@ Per muovere e posizionare il reticolo (per ora solo il cerchio) bisogna innanzit
     * S : giu
     * A : destra
     * D : sinistra
-  * Angolazione:
-    * Q : +5° senso anti-orario 
-    * E : +5° senso anti-orario
   * Raggio:
     * + : +5 px di raggio 
     * - : -5 px di raggio
