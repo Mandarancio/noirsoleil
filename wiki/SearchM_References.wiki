@@ -9,9 +9,9 @@
 
  Innanzitutto vi prego di perdonarmi perchè c'è un errore nella libreria:
  Nella sezione Interface la funzione search è definita cosi:
- _function search(immagine: bitmap; livello: integer): *bitmap*;_
- Invece di:
- _function search(immagine: bitmap; livello: integer): *reductmac*;_
+  _function search(immagine: bitmap; livello: integer): *bitmap*;_
+ invece di:
+  _function search(immagine: bitmap; livello: integer): *reductmac*;_
  Quindi modificate il listato se volete utilizzarla!!
 
 = Dettagli sul funzionamento =
@@ -22,4 +22,3 @@
   * L'ultimo oggetto è chiamato reductMac e contiene solo le informazioni base della macchia, coordinate, area e altezza. Le funzioni e le procedure permettono conversioni da reductmac a macchia e viceversa, più una procedura di inizializzazione.
   * La funzione search è il cuore della libreria.
 Questa permette dato un bitmap e un livello di colore di avere una reductmac trovata cercando pixel per pixel la zona al disotto del livello dato.
-
