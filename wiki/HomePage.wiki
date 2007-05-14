@@ -9,8 +9,10 @@ Introduzione a Noir Soleil
  Noir Soleil è programmato interamente in Delphi, per adesso è stato compilato solo per windows (ma si conta di portarlo anche su Linux) con Wine gira anche sotto Linux.
  Le funzioni per il calcolo delle Effemeridi derivano da quelle scritte in C per il programma SunSpot scritto da Albino Carbognani.
 
-*SearchM* 
- SearchM è una libreria per la ricerca di macchie indipendente dal progetto NoirSoleil,
+*SearchM 0.5B* 
+ SearchM è una libreria per la ricerca di macchie indipendente dal progetto NoirSoleil, questa lavora con un bitmap inserito dall'utente e un livello di colore. 
+Per altre informazioni: 
+SearchM References
 
 *Log versioni Noir Soleil*
   * _Noir Soleil Ver. 1.00A  (14-05-2007)_ 
