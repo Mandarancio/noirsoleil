@@ -11,7 +11,7 @@ Introduzione a Noir Soleil
 
 *SearchM 0.5B* 
  SearchM è una libreria per la ricerca di macchie indipendente dal progetto NoirSoleil, questa lavora con un bitmap inserito dall'utente e un livello di colore. 
- * Per altre informazioni: SearchM References
+ * Per altre informazioni: SearchM_References
 
 *Log versioni Noir Soleil*
   * _Noir Soleil Ver. 1.00A  (14-05-2007)_ 
