@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/02/10 09.38.43.748.pas,C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\main.pas</Transaction>
+    <Transaction>2007/02/10 09.38.43.748.dfm,C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\main.dfm</Transaction>
+    <Transaction>2007/02/10 09.38.45.220.bdsproj,C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\sole.bdsproj</Transaction>
+    <Transaction>2007/02/12 18.55.08.694.pas,C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\Unit2.pas=C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\Rielaboratore.pas</Transaction>
+    <Transaction>2007/02/12 18.55.08.714.dfm,C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\Unit2.dfm=C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\Rielaboratore.dfm</Transaction>
+    <Transaction>2007/03/22 14.29.24.736.pas,C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\Unit3.pas=C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\ante.pas</Transaction>
+    <Transaction>2007/03/22 14.29.24.756.dfm,C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\Unit3.dfm=C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\Sole\ante.dfm</Transaction>
+    <Transaction>2007/04/03 16.15.56.437.bdsproj,C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\NoirSoleil\sole.bdsproj=C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\NoirSoleil\NoirSoleil.bdsproj</Transaction>
+    <Transaction>2007/04/03 16.33.22.140.pas,C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\NoirSoleil\Unit1.pas=</Transaction>
+    <Transaction>2007/04/03 16.34.09.531.pas,C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\NoirSoleil\Unit1.pas=C:\Documents and Settings\Martino\Documenti\Borland Studio Projects\NoirSoleil\search.pas</Transaction>
+    <Transaction>2007/04/24 19.44.20.131.pas,C:\Documents and Settings\Martino\Desktop\NoirSoleil\Unit4.pas=C:\Documents and Settings\Martino\Desktop\NoirSoleil\Console.pas</Transaction>
+    <Transaction>2007/04/24 19.44.20.131.dfm,C:\Documents and Settings\Martino\Desktop\NoirSoleil\Unit4.dfm=C:\Documents and Settings\Martino\Desktop\NoirSoleil\Console.dfm</Transaction>
+    <Transaction>2007/05/08 19.45.56.824.pas,C:\Documents and Settings\Martino\Desktop\NoirSoleil\Unit5.pas=C:\Documents and Settings\Martino\Desktop\NoirSoleil\anteRielab.pas</Transaction>
+    <Transaction>2007/05/08 19.45.56.834.dfm,C:\Documents and Settings\Martino\Desktop\NoirSoleil\Unit5.dfm=C:\Documents and Settings\Martino\Desktop\NoirSoleil\anteRielab.dfm</Transaction>
+    <Transaction>2007/05/09 14.32.08.062.pas,C:\Documents and Settings\Martino\Desktop\NoirSoleil\Unit1.pas=C:\Documents and Settings\Martino\Desktop\NoirSoleil\macchieunit.pas</Transaction>
+    <Transaction>2007/05/14 12.27.08.631.pas,C:\Documents and Settings\Martino\Desktop\NoirSoleil\Unit6.pas=C:\Documents and Settings\Martino\Desktop\NoirSoleil\Grafici.pas</Transaction>
+    <Transaction>2007/05/14 12.27.08.631.dfm,C:\Documents and Settings\Martino\Desktop\NoirSoleil\Unit6.dfm=C:\Documents and Settings\Martino\Desktop\NoirSoleil\Grafici.dfm</Transaction>
+    <Transaction>2007/05/26 16.36.12.734.pas,H:\progetto-NoirSoleil\NoirSoleil\Unit7.pas=H:\progetto-NoirSoleil\NoirSoleil\GraficoArea.pas</Transaction>
+    <Transaction>2007/05/26 16.36.12.734.dfm,H:\progetto-NoirSoleil\NoirSoleil\Unit7.dfm=H:\progetto-NoirSoleil\NoirSoleil\GraficoArea.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
