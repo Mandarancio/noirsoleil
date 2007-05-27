@@ -1,5 +1,5 @@
 unit Rielaboratore;
-
+// Questo e' un commento 
 interface
 
 uses
