@@ -15,7 +15,8 @@ L'idea che abbiamo di Noir Soleil è molto difficile da realizzare ma noi ci sti
 
 Di queste numerose funzioni abbiamo già o in parte sviluppato:
   * Calcolo Effemeridi
-  * Ricerca macchie (da fare la conversione dell'area)
-  * Gestione macchi (solo iniziata)
-  * Griglia di riferimento (manca l'asse dell'inclinazione del sole)
-
+  * Ricerca macchie (coordinate e area )
+  * Conversione da coordinate cartesiane a eliografiche (da controllare)
+  * Gestione macchie 
+  * Griglia di riferimento
+  * Software per la rielaborazione dei dati raccolti (da controllare)
