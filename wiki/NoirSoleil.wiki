@@ -15,10 +15,10 @@ L'idea che abbiamo di Noir Soleil è molto difficile da realizzare ma noi ci sti
 
 Con il raggiungimento della versione 1.0B abbiamo completato tutte le funzioni e non solo!
   * Calcolo Effemeridi
-  * Ricerca macchie (coordinate e area )
-  * Conversione da coordinate cartesiane a eliografiche (da controllare)
+  * Ricerca macchie (coordinate e area)
+  * Conversione da coordinate cartesiane a eliografiche
   * Gestione macchie 
   * Griglia di riferimento
-  * Software per la rielaborazione dei dati raccolti (da controllare)
+  * Software per la rielaborazione dei dati raccolti
   * _Grafico andamento area_
   * _Ricostruzine grafica dell'attività solare_
